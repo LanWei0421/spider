@@ -1,5 +1,5 @@
 # spider
-ython爬虫
+python爬虫
 从网站/APP爬虫
 
 分析网站：静态/动态
